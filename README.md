@@ -1,2 +1,1 @@
-# Demo_Project
-demo
+#npx create-react-app my-react-app
